@@ -1,0 +1,5466 @@
+{
+  "version": 1,
+  "savedAt": "2026-09-22T17:23:01.719Z",
+  "saturday": "2026-10-03",
+  "slots": [],
+  "students": [
+    {
+      "id": "tulip",
+      "chinese": "王 梓晴",
+      "english": "Tulip",
+      "school": "TTC",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "Balance equation and mole cal",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C"
+        ],
+        "bio": [
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5"
+        ]
+      },
+      "tests": [
+        {
+          "id": "1ocrr4i8",
+          "subject": "chem",
+          "kind": "s1ut",
+          "date": "2026-10-05"
+        }
+      ],
+      "gates": {
+        "chem": {
+          "Earth1B": "s1ut",
+          "Earth1A": "s1ut",
+          "Earth2A": "s1ut",
+          "Earth2B": "s1ut",
+          "Earth2C": "s1ut"
+        },
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "Earth4A": "2",
+          "Earth4B": "2",
+          "Earth3A": "2",
+          "Earth3B": "2",
+          "Earth1B": "1"
+        },
+        "bio": {
+          "SB02.2.1": "1",
+          "SB02.2.2": "1",
+          "SB02.2.3": "1",
+          "SB02.2.4": "1",
+          "SB02.2.5": "1",
+          "SB02.2.6": "1",
+          "SB02.2.7": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1"
+        }
+      }
+    },
+    {
+      "id": "cheryl",
+      "chinese": "陳 愷妍",
+      "english": "Cheryl",
+      "school": "BPS",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB04.4.1",
+          "BB04.4.2",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2",
+          "Earth3A": "2",
+          "Earth3B": "2",
+          "Earth4A": "2",
+          "Earth4B": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB04.4.1": "1",
+          "BB04.4.2": "1",
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "nathan",
+      "chinese": "何 浚軒",
+      "english": "Nathan",
+      "school": "QES",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "cell + food (food ex後補)",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "anson",
+      "chinese": "余 渭聰",
+      "english": "Anson",
+      "school": "SWC",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {},
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1"
+        }
+      }
+    },
+    {
+      "id": "harley",
+      "chinese": "吳 皓軒",
+      "english": "Harley",
+      "school": "CWC",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [],
+        "bio": [
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {},
+        "bio": {
+          "SB02.2.1": "1",
+          "SB02.2.2": "1",
+          "SB02.2.3": "1",
+          "SB02.2.4": "1",
+          "SB02.2.5": "1",
+          "SB02.2.6": "1",
+          "SB02.2.7": "1",
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "donavon",
+      "chinese": "李 柏森",
+      "english": "Donavon",
+      "school": "SYS",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B"
+        ],
+        "bio": [
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "Earth3A": "1",
+          "Earth3B": "1",
+          "Earth4A": "1",
+          "Earth4B": "1"
+        },
+        "bio": {
+          "SB02.2.1": "1",
+          "SB02.2.2": "1",
+          "SB02.2.3": "1",
+          "SB02.2.4": "1",
+          "SB02.2.5": "1",
+          "SB02.2.6": "1",
+          "SB02.2.7": "1",
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "jason",
+      "chinese": "楊 晉",
+      "english": "Jason",
+      "school": "SPC",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "Earth3A": "1",
+          "Earth3B": "1",
+          "Earth4A": "1",
+          "Earth4B": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "SB02.2.1": "2",
+          "SB02.2.2": "2",
+          "SB02.2.3": "2",
+          "SB02.2.4": "2",
+          "SB02.2.5": "2",
+          "SB02.2.6": "2",
+          "SB02.2.7": "2",
+          "BB02.2.1": "2",
+          "BB02.2.2": "2",
+          "BB02.2.3": "2",
+          "BB02.2.4": "2",
+          "BB02.2.5": "2",
+          "BB02.2.6": "2",
+          "BB02.2.7": "2",
+          "BB02.2.8": "2",
+          "SB01.1.3": "2"
+        }
+      }
+    },
+    {
+      "id": "vulcan",
+      "chinese": "王 楚烯",
+      "english": "Vulcan",
+      "school": "SPC",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "Earth3A": "1",
+          "Earth3B": "1",
+          "Earth4A": "1",
+          "Earth4B": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "SB02.2.1": "2",
+          "SB02.2.2": "2",
+          "SB02.2.3": "2",
+          "SB02.2.4": "2",
+          "SB02.2.5": "2",
+          "SB02.2.6": "2",
+          "SB02.2.7": "2",
+          "BB02.2.1": "2",
+          "BB02.2.2": "2",
+          "BB02.2.3": "2",
+          "BB02.2.4": "2",
+          "BB02.2.5": "2",
+          "BB02.2.6": "2",
+          "BB02.2.7": "2",
+          "BB02.2.8": "2",
+          "SB01.1.3": "2"
+        }
+      }
+    },
+    {
+      "id": "angus",
+      "chinese": "顏 伽龍",
+      "english": "Angus",
+      "school": "SPC",
+      "form": "S3",
+      "day": "sat",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "Earth3A": "1",
+          "Earth3B": "1",
+          "Earth4A": "1",
+          "Earth4B": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "SB02.2.1": "2",
+          "SB02.2.2": "2",
+          "SB02.2.3": "2",
+          "SB02.2.4": "2",
+          "SB02.2.5": "2",
+          "SB02.2.6": "2",
+          "SB02.2.7": "2",
+          "BB02.2.1": "2",
+          "BB02.2.2": "2",
+          "BB02.2.3": "2",
+          "BB02.2.4": "2",
+          "BB02.2.5": "2",
+          "BB02.2.6": "2",
+          "BB02.2.7": "2",
+          "BB02.2.8": "2",
+          "SB01.1.3": "2"
+        }
+      }
+    },
+    {
+      "id": "ednah",
+      "chinese": "葉 曦蔚",
+      "english": "Ednah",
+      "school": "YLM",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "ethan",
+      "chinese": "劉 衍廷",
+      "english": "Ethan",
+      "school": "SSC",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "cell + food (food ex後補)",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "Earth3A": "1",
+          "Earth3B": "1",
+          "Earth4A": "1",
+          "Earth4B": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "2",
+          "MWI2B": "2",
+          "MWI2C": "2",
+          "MWI2D": "2",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "kinson",
+      "chinese": "葉 城佑",
+      "english": "Kinson",
+      "school": "YWC",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "MWI1A",
+          "MWI1B"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "MWI1A": "1",
+          "MWI1B": "1"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1"
+        }
+      }
+    },
+    {
+      "id": "lukas",
+      "chinese": "鄧 浩臣",
+      "english": "Lukas",
+      "school": "HKF",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "Chapters 10–12 are not in the official topic list yet.",
+      "syllabus": {
+        "chem": [
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "Earth3A",
+          "Earth3B",
+          "Earth4A",
+          "Earth4B",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "Earth3A": "1",
+          "Earth3B": "1",
+          "Earth4A": "1",
+          "Earth4B": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "1",
+          "MWI3B": "1",
+          "MWI3C": "1",
+          "MWI3D": "1",
+          "MWI3E": "1",
+          "MWI4A": "1",
+          "MWI4B": "1",
+          "MWI4C": "1",
+          "MWI5A": "1",
+          "MWI5B": "1",
+          "MWI5C": "1",
+          "MWI5D": "1"
+        },
+        "bio": {
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "cherry",
+      "chinese": "陳 敏嬋",
+      "english": "Cherry",
+      "school": "OLR",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "BB06.6.2",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7",
+          "BB06.6.3"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "1",
+          "MWI3B": "1",
+          "MWI3C": "1",
+          "MWI3D": "1",
+          "MWI3E": "1",
+          "MWI4A": "1",
+          "MWI4B": "1",
+          "MWI4C": "1",
+          "MWI5A": "1",
+          "MWI5B": "1",
+          "MWI5C": "1",
+          "MWI5D": "1"
+        },
+        "bio": {
+          "BB06.6.2": "1",
+          "SB02.2.1": "1",
+          "SB02.2.2": "1",
+          "SB02.2.3": "1",
+          "SB02.2.4": "1",
+          "SB02.2.5": "1",
+          "SB02.2.6": "1",
+          "SB02.2.7": "1",
+          "BB06.6.3": "1",
+          "BB02.2.1": "1",
+          "BB02.2.2": "1",
+          "BB02.2.3": "1",
+          "BB02.2.4": "1",
+          "BB02.2.5": "1",
+          "BB02.2.6": "1",
+          "BB02.2.7": "1",
+          "BB02.2.8": "1",
+          "SB01.1.3": "1"
+        }
+      }
+    },
+    {
+      "id": "kyle",
+      "chinese": "韓 永晉",
+      "english": "Kyle",
+      "school": "LFC",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [],
+        "bio": []
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {},
+        "bio": {}
+      }
+    },
+    {
+      "id": "cyrus",
+      "chinese": "馬 敬俊",
+      "english": "Cyrus",
+      "school": "WHC",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB04.4.1",
+          "BB04.4.2",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "tests": [],
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB04.4.1": "1",
+          "BB04.4.2": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "SB02.2.1": "2",
+          "SB02.2.2": "2",
+          "SB02.2.3": "2",
+          "SB02.2.4": "2",
+          "SB02.2.5": "2",
+          "SB02.2.6": "2",
+          "SB02.2.7": "2",
+          "BB02.2.1": "2",
+          "BB02.2.2": "2",
+          "BB02.2.3": "2",
+          "BB02.2.4": "2",
+          "BB02.2.5": "2",
+          "BB02.2.6": "2",
+          "BB02.2.7": "2",
+          "BB02.2.8": "2",
+          "SB01.1.3": "2"
+        }
+      }
+    },
+    {
+      "id": "jack",
+      "chinese": "李 澤龍",
+      "english": "JACK",
+      "school": "WHC",
+      "form": "S3",
+      "day": "sun",
+      "active": true,
+      "remark": "",
+      "schoolTopic": "",
+      "syllabus": {
+        "chem": [
+          "Earth1A",
+          "Earth1B",
+          "Earth2A",
+          "Earth2B",
+          "Earth2C",
+          "MWI1A",
+          "MWI1B",
+          "MWI2A",
+          "MWI2B",
+          "MWI2C",
+          "MWI2D",
+          "MWI3A",
+          "MWI3B",
+          "MWI3C",
+          "MWI3D",
+          "MWI3E",
+          "MWI4A",
+          "MWI4B",
+          "MWI4C",
+          "MWI5A",
+          "MWI5B",
+          "MWI5C",
+          "MWI5D"
+        ],
+        "bio": [
+          "BB03.3.1",
+          "BB03.3.2",
+          "BB03.3.3",
+          "BB03.3.4",
+          "BB03.3.5",
+          "BB04.4.1",
+          "BB04.4.2",
+          "BB05.5.1",
+          "BB05.5.2",
+          "BB05.5.3",
+          "BB05.5.4",
+          "BB05.5.5",
+          "BB02.2.1",
+          "BB02.2.2",
+          "BB02.2.3",
+          "BB02.2.4",
+          "BB02.2.5",
+          "BB02.2.6",
+          "BB02.2.7",
+          "BB02.2.8",
+          "SB01.1.3",
+          "SB02.2.1",
+          "SB02.2.2",
+          "SB02.2.3",
+          "SB02.2.4",
+          "SB02.2.5",
+          "SB02.2.6",
+          "SB02.2.7"
+        ]
+      },
+      "gates": {
+        "chem": {},
+        "bio": {}
+      },
+      "tests": [],
+      "joined": "2026-10-04",
+      "semesters": {
+        "chem": {
+          "Earth1A": "1",
+          "Earth1B": "1",
+          "Earth2A": "1",
+          "Earth2B": "1",
+          "Earth2C": "1",
+          "MWI1A": "1",
+          "MWI1B": "1",
+          "MWI2A": "1",
+          "MWI2B": "1",
+          "MWI2C": "1",
+          "MWI2D": "1",
+          "MWI3A": "2",
+          "MWI3B": "2",
+          "MWI3C": "2",
+          "MWI3D": "2",
+          "MWI3E": "2",
+          "MWI4A": "2",
+          "MWI4B": "2",
+          "MWI4C": "2",
+          "MWI5A": "2",
+          "MWI5B": "2",
+          "MWI5C": "2",
+          "MWI5D": "2"
+        },
+        "bio": {
+          "BB03.3.1": "1",
+          "BB03.3.2": "1",
+          "BB03.3.3": "1",
+          "BB03.3.4": "1",
+          "BB03.3.5": "1",
+          "BB04.4.1": "1",
+          "BB04.4.2": "1",
+          "BB05.5.1": "1",
+          "BB05.5.2": "1",
+          "BB05.5.3": "1",
+          "BB05.5.4": "1",
+          "BB05.5.5": "1",
+          "SB02.2.1": "2",
+          "SB02.2.2": "2",
+          "SB02.2.3": "2",
+          "SB02.2.4": "2",
+          "SB02.2.5": "2",
+          "SB02.2.6": "2",
+          "SB02.2.7": "2",
+          "BB02.2.1": "2",
+          "BB02.2.2": "2",
+          "BB02.2.3": "2",
+          "BB02.2.4": "2",
+          "BB02.2.5": "2",
+          "BB02.2.6": "2",
+          "BB02.2.7": "2",
+          "BB02.2.8": "2",
+          "SB01.1.3": "2"
+        }
+      }
+    }
+  ],
+  "lessons": {
+    "2026-09-26-chem": {
+      "id": "2026-09-26-chem",
+      "date": "2026-09-26",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "sra1e62d",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth2B",
+            "Earth2A",
+            "Earth2C"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "tulip",
+            "cheryl",
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "tulip",
+        "cheryl",
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus"
+      ],
+      "confirmedAt": "2026-09-22T16:48:05.701Z"
+    },
+    "2026-09-26-bio": {
+      "id": "2026-09-26-bio",
+      "date": "2026-09-26",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "32zw7vz6",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.2",
+            "BB02.2.3",
+            "BB02.2.8"
+          ],
+          "mode": "concepts + intro ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "tulip",
+            "harley",
+            "donavon",
+            "cheryl",
+            "nathan",
+            "anson",
+            "jason",
+            "vulcan",
+            "angus"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "tulip",
+        "cheryl",
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus"
+      ],
+      "confirmedAt": "2026-09-22T17:02:51.595Z"
+    },
+    "2026-09-27-chem": {
+      "id": "2026-09-27-chem",
+      "date": "2026-09-27",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "bq04gn8w",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "MWI1A"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ednah",
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ednah",
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus"
+      ],
+      "confirmedAt": "2026-09-22T17:03:52.709Z"
+    },
+    "2026-09-27-bio": {
+      "id": "2026-09-27-bio",
+      "date": "2026-09-27",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "4lscbdjl",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.2",
+            "BB02.2.3",
+            "BB02.2.8"
+          ],
+          "mode": "concepts + intro ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ednah",
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ednah",
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus"
+      ],
+      "confirmedAt": "2026-09-22T17:04:50.128Z"
+    },
+    "2026-07-11-chem": {
+      "id": "2026-07-11-chem",
+      "date": "2026-07-11",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "gr04etqb",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-11-bio": {
+      "id": "2026-07-11-bio",
+      "date": "2026-07-11",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "54j6l3y4",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-12-chem": {
+      "id": "2026-07-12-chem",
+      "date": "2026-07-12",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "4h2mcj8v",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-12-bio": {
+      "id": "2026-07-12-bio",
+      "date": "2026-07-12",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "337jzkfz",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-18-chem": {
+      "id": "2026-07-18-chem",
+      "date": "2026-07-18",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "xrnxtlds",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-18-bio": {
+      "id": "2026-07-18-bio",
+      "date": "2026-07-18",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "bxe3qb02",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-19-chem": {
+      "id": "2026-07-19-chem",
+      "date": "2026-07-19",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "pcicwjf4",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-19-bio": {
+      "id": "2026-07-19-bio",
+      "date": "2026-07-19",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "mbmnc6lw",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-25-chem": {
+      "id": "2026-07-25-chem",
+      "date": "2026-07-25",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": true,
+      "stale": true,
+      "streams": [
+        {
+          "id": "bmh0d1cd",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "tulip",
+        "cheryl",
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus"
+      ],
+      "confirmedAt": "2026-09-22T14:57:38.718Z"
+    },
+    "2026-07-25-bio": {
+      "id": "2026-07-25-bio",
+      "date": "2026-07-25",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "65l4kgmo",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-07-26-chem": {
+      "id": "2026-07-26-chem",
+      "date": "2026-07-26",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": true,
+      "stale": true,
+      "streams": [
+        {
+          "id": "xklxagu4",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ednah",
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus"
+      ],
+      "confirmedAt": "2026-09-22T14:40:11.151Z"
+    },
+    "2026-07-26-bio": {
+      "id": "2026-07-26-bio",
+      "date": "2026-07-26",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "meqqf0nk",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-01-chem": {
+      "id": "2026-08-01-chem",
+      "date": "2026-08-01",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "lhd0qsew",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-01-bio": {
+      "id": "2026-08-01-bio",
+      "date": "2026-08-01",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "3m8eqvwn",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-02-chem": {
+      "id": "2026-08-02-chem",
+      "date": "2026-08-02",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "uhiw1uy6",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-02-bio": {
+      "id": "2026-08-02-bio",
+      "date": "2026-08-02",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "bbqtxaek",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-08-chem": {
+      "id": "2026-08-08-chem",
+      "date": "2026-08-08",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "lufermco",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-08-bio": {
+      "id": "2026-08-08-bio",
+      "date": "2026-08-08",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "4uo076na",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-09-chem": {
+      "id": "2026-08-09-chem",
+      "date": "2026-08-09",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "60n0bl0l",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-09-bio": {
+      "id": "2026-08-09-bio",
+      "date": "2026-08-09",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "yq5cbcrt",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-15-chem": {
+      "id": "2026-08-15-chem",
+      "date": "2026-08-15",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "q0m9ao9a",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-15-bio": {
+      "id": "2026-08-15-bio",
+      "date": "2026-08-15",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "4gn5qlqr",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-16-chem": {
+      "id": "2026-08-16-chem",
+      "date": "2026-08-16",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "of9l3ak3",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-16-bio": {
+      "id": "2026-08-16-bio",
+      "date": "2026-08-16",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "jgwij7k1",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-22-chem": {
+      "id": "2026-08-22-chem",
+      "date": "2026-08-22",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "ww9nw1t6",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-22-bio": {
+      "id": "2026-08-22-bio",
+      "date": "2026-08-22",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "51f85mph",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-23-chem": {
+      "id": "2026-08-23-chem",
+      "date": "2026-08-23",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "wple26xl",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-23-bio": {
+      "id": "2026-08-23-bio",
+      "date": "2026-08-23",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "zid92iv4",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-29-chem": {
+      "id": "2026-08-29-chem",
+      "date": "2026-08-29",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "1w6h1vka",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-29-bio": {
+      "id": "2026-08-29-bio",
+      "date": "2026-08-29",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "gpqo27kp",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-30-chem": {
+      "id": "2026-08-30-chem",
+      "date": "2026-08-30",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "jdgg9obs",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-08-30-bio": {
+      "id": "2026-08-30-bio",
+      "date": "2026-08-30",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "pjbdo3ar",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-09-05-chem": {
+      "id": "2026-09-05-chem",
+      "date": "2026-09-05",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth1A"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Part 1 ex p.1",
+          "studentIds": [
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "tulip",
+            "cheryl"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "tulip",
+        "cheryl"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-05-bio": {
+      "id": "2026-09-05-bio",
+      "date": "2026-09-05",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.4"
+          ],
+          "mode": "concepts",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Food: condensation and hydrolysis. Ex not started.",
+          "studentIds": [
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus",
+            "tulip",
+            "cheryl"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus",
+        "tulip",
+        "cheryl"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-06-chem": {
+      "id": "2026-09-06-chem",
+      "date": "2026-09-06",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth1A"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Part 1 ex p.1",
+          "studentIds": [
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "ednah"
+          ]
+        }
+      ],
+      "attendance": {
+        "kinson": "abs"
+      },
+      "rosterIds": [
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "ednah"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-06-bio": {
+      "id": "2026-09-06-bio",
+      "date": "2026-09-06",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.4"
+          ],
+          "mode": "concepts",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Food: condensation and hydrolysis. Ex not started.",
+          "studentIds": [
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "ednah"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "ednah"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-12-chem": {
+      "id": "2026-09-12-chem",
+      "date": "2026-09-12",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth1B"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus",
+            "tulip",
+            "cheryl"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus",
+        "tulip",
+        "cheryl"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-12-bio": {
+      "id": "2026-09-12-bio",
+      "date": "2026-09-12",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.4"
+          ],
+          "mode": "ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus",
+            "tulip",
+            "cheryl"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus",
+        "tulip",
+        "cheryl"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-13-chem": {
+      "id": "2026-09-13-chem",
+      "date": "2026-09-13",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth1B"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "ednah"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "ednah"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-13-bio": {
+      "id": "2026-09-13-bio",
+      "date": "2026-09-13",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.4"
+          ],
+          "mode": "ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "ednah"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "ednah"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-19-chem": {
+      "id": "2026-09-19-chem",
+      "date": "2026-09-19",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth2A"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus",
+            "tulip",
+            "cheryl"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus",
+        "tulip",
+        "cheryl"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-19-bio": {
+      "id": "2026-09-19-bio",
+      "date": "2026-09-19",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.5",
+            "BB02.2.6",
+            "BB02.2.3"
+          ],
+          "mode": "concepts",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Vitamins",
+          "studentIds": [
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus",
+            "tulip",
+            "cheryl"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus",
+        "tulip",
+        "cheryl"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-20-chem": {
+      "id": "2026-09-20-chem",
+      "date": "2026-09-20",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [
+        "jack"
+      ],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "MWI1A"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "ednah",
+            "jack"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "ednah",
+        "jack"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-20-bio": {
+      "id": "2026-09-20-bio",
+      "date": "2026-09-20",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "extra": false,
+      "confirmed": true,
+      "stale": false,
+      "trials": [
+        "jack"
+      ],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB02.2.5",
+            "BB02.2.6",
+            "BB02.2.3"
+          ],
+          "mode": "concepts",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Vitamins",
+          "studentIds": [
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "ednah",
+            "jack"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "ednah",
+        "jack"
+      ],
+      "confirmedAt": "2026-09-22T15:43:43.149Z"
+    },
+    "2026-09-20-chem-extra-imported": {
+      "id": "2026-09-20-chem-extra-imported",
+      "date": "2026-09-20",
+      "day": "sun",
+      "subject": "chem",
+      "start": "14:30",
+      "end": "15:30",
+      "room": "突破中心 6/F 6A",
+      "extra": true,
+      "confirmed": true,
+      "stale": false,
+      "trials": [
+        "jack"
+      ],
+      "streams": [
+        {
+          "id": "imported",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth2A",
+            "Earth2B"
+          ],
+          "mode": "concepts",
+          "extra": true,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "HW: Earth2A_Matters + Earth2B_Physical and chemical change (ex)",
+          "studentIds": [
+            "lukas",
+            "cherry",
+            "cyrus",
+            "ednah",
+            "jack"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "lukas",
+        "cherry",
+        "cyrus",
+        "ednah",
+        "jack"
+      ],
+      "confirmedAt": "2026-09-22T16:00:14.981Z"
+    },
+    "2026-10-03-chem": {
+      "id": "2026-10-03-chem",
+      "date": "2026-10-03",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "e2scmomc",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "Earth2A",
+            "Earth2B",
+            "Earth2C"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Tutorial",
+          "studentIds": [
+            "tulip",
+            "cheryl",
+            "nathan",
+            "anson",
+            "harley",
+            "donavon",
+            "jason",
+            "vulcan",
+            "angus"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "tulip",
+        "cheryl",
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus"
+      ],
+      "confirmedAt": "2026-09-22T16:51:37.410Z"
+    },
+    "2026-10-03-bio": {
+      "id": "2026-10-03-bio",
+      "date": "2026-10-03",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "tx4hkm6b",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB03.3.1",
+            "BB03.3.2"
+          ],
+          "mode": "concepts + intro ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "nathan",
+            "cheryl",
+            "anson",
+            "jason",
+            "vulcan",
+            "angus"
+          ]
+        },
+        {
+          "id": "76qyaky2",
+          "teacher": "Thomas",
+          "topicCodes": [
+            "BB02.2.5"
+          ],
+          "mode": "ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Con't unfinished intro ex",
+          "studentIds": [
+            "harley",
+            "donavon"
+          ]
+        },
+        {
+          "id": "le61h3up",
+          "teacher": "Thomas",
+          "topicCodes": [
+            "SB02.2.1",
+            "SB02.2.2"
+          ],
+          "mode": "ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Video given, if intro not finish → cont",
+          "studentIds": [
+            "tulip"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "tulip",
+        "cheryl",
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus"
+      ],
+      "confirmedAt": "2026-09-22T17:11:01.111Z"
+    },
+    "2026-10-04-chem": {
+      "id": "2026-10-04-chem",
+      "date": "2026-10-04",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "u7gbgc4o",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "MWI1B"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ednah",
+            "ethan",
+            "kinson",
+            "lukas",
+            "cherry",
+            "kyle",
+            "cyrus",
+            "jack"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ednah",
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "jack"
+      ],
+      "confirmedAt": "2026-09-22T17:12:07.929Z"
+    },
+    "2026-10-04-bio": {
+      "id": "2026-10-04-bio",
+      "date": "2026-10-04",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": true,
+      "stale": false,
+      "streams": [
+        {
+          "id": "7s9xg05t",
+          "teacher": "Jeffery",
+          "topicCodes": [
+            "BB03.3.1",
+            "BB03.3.2"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": [
+            "ethan",
+            "kinson",
+            "kyle",
+            "cyrus",
+            "jack"
+          ]
+        },
+        {
+          "id": "3qw3iqta",
+          "teacher": "Thomas",
+          "topicCodes": [
+            "BB02.2.5"
+          ],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "Cont unfinished intro ex",
+          "studentIds": [
+            "ednah",
+            "lukas",
+            "cherry"
+          ]
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "ednah",
+        "ethan",
+        "kinson",
+        "lukas",
+        "cherry",
+        "kyle",
+        "cyrus",
+        "jack"
+      ],
+      "confirmedAt": "2026-09-22T17:15:10.392Z"
+    }
+  },
+  "contributions": [
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "ednah",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "ethan",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "kinson",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "lukas",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "cherry",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "kyle",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-26-chem",
+      "studentId": "cyrus",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "tulip",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "cheryl",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "nathan",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "anson",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "harley",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "donavon",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "jason",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "vulcan",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-07-25-chem",
+      "studentId": "angus",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "nathan",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "anson",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "harley",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "donavon",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "jason",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "vulcan",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "tulip",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-chem",
+      "studentId": "cheryl",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "anson",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "harley",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "jason",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "angus",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-05-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-06-chem",
+      "studentId": "lukas",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-06-chem",
+      "studentId": "cherry",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-06-chem",
+      "studentId": "kyle",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-06-chem",
+      "studentId": "cyrus",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-06-chem",
+      "studentId": "ednah",
+      "code": "Earth1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-06-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-06-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-06-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-06-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-06-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-06-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.4",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "nathan",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "anson",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "harley",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "donavon",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "jason",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "vulcan",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "angus",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "tulip",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-chem",
+      "studentId": "cheryl",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "anson",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "harley",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "jason",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "angus",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-12-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "ethan",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "kinson",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "lukas",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "cherry",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "kyle",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "cyrus",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-chem",
+      "studentId": "ednah",
+      "code": "Earth1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-13-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.4",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "nathan",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "anson",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "harley",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "donavon",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "jason",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "vulcan",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "angus",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "tulip",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-chem",
+      "studentId": "cheryl",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "anson",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "anson",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "anson",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "harley",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "harley",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "harley",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "jason",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "jason",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "jason",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "angus",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "angus",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "angus",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-19-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "ethan",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "kinson",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "lukas",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "cherry",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "kyle",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "cyrus",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "ednah",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-chem",
+      "studentId": "jack",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "jack",
+      "code": "BB02.2.5",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "jack",
+      "code": "BB02.2.6",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-bio",
+      "studentId": "jack",
+      "code": "BB02.2.3",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "lukas",
+      "code": "Earth2A",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "lukas",
+      "code": "Earth2B",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "cherry",
+      "code": "Earth2A",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "cherry",
+      "code": "Earth2B",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "cyrus",
+      "code": "Earth2A",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "cyrus",
+      "code": "Earth2B",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "ednah",
+      "code": "Earth2A",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "ednah",
+      "code": "Earth2B",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "jack",
+      "code": "Earth2A",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-20-chem-extra-imported",
+      "studentId": "jack",
+      "code": "Earth2B",
+      "mode": "concepts"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "tulip",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "tulip",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "tulip",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "cheryl",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "cheryl",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "cheryl",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "nathan",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "nathan",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "nathan",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "anson",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "anson",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "anson",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "harley",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "harley",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "harley",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "donavon",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "donavon",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "donavon",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "jason",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "jason",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "jason",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "vulcan",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "vulcan",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "vulcan",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "angus",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "angus",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-chem",
+      "studentId": "angus",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "tulip",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "tulip",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "tulip",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "cheryl",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "cheryl",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "cheryl",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "nathan",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "nathan",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "nathan",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "anson",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "anson",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "anson",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "harley",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "harley",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "harley",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "donavon",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "donavon",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "donavon",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "jason",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "jason",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "jason",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "vulcan",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "vulcan",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "vulcan",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "angus",
+      "code": "Earth2A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "angus",
+      "code": "Earth2B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-chem",
+      "studentId": "angus",
+      "code": "Earth2C",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "tulip",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "cheryl",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "nathan",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "anson",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "anson",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "anson",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "harley",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "harley",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "harley",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "jason",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "jason",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "jason",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "vulcan",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "angus",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "angus",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-26-bio",
+      "studentId": "angus",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "ednah",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "ethan",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "kinson",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "lukas",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "cherry",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "kyle",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-chem",
+      "studentId": "cyrus",
+      "code": "MWI1A",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "ethan",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "kinson",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "kyle",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.3",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-09-27-bio",
+      "studentId": "cyrus",
+      "code": "BB02.2.8",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "tulip",
+      "code": "SB02.2.1",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "tulip",
+      "code": "SB02.2.2",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "cheryl",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "cheryl",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "nathan",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "nathan",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "anson",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "anson",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "harley",
+      "code": "BB02.2.5",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "donavon",
+      "code": "BB02.2.5",
+      "mode": "ex"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "jason",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "jason",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "vulcan",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "vulcan",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "angus",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-03-bio",
+      "studentId": "angus",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "ednah",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "ethan",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "kinson",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "lukas",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "cherry",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "kyle",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "cyrus",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-chem",
+      "studentId": "jack",
+      "code": "MWI1B",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "ednah",
+      "code": "BB02.2.5",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "ethan",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "ethan",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "kinson",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "kinson",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "lukas",
+      "code": "BB02.2.5",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "cherry",
+      "code": "BB02.2.5",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "kyle",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "kyle",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "cyrus",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "cyrus",
+      "code": "BB03.3.2",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "jack",
+      "code": "BB03.3.1",
+      "mode": "both"
+    },
+    {
+      "lessonId": "2026-10-04-bio",
+      "studentId": "jack",
+      "code": "BB03.3.2",
+      "mode": "both"
+    }
+  ],
+  "manual": {},
+  "later": {
+    "tulip": {
+      "Earth1A": ""
+    }
+  },
+  "terms": {},
+  "termPlan": {},
+  "termQueue": {
+    "chem": [],
+    "bio": []
+  }
+}
