@@ -80,6 +80,8 @@ function blankState() {
     contributions: [],
     manual: {},
     later: {},
+    hand: {},
+    handNote: "",
     terms: {},
     termPlan: {},
     termQueue: { chem: [], bio: [] },
@@ -302,6 +304,45 @@ function laterLabel(subject) {
 function laterOf(studentId, code) {
   const bag = state.later && state.later[studentId];
   return bag ? bag[code] || "" : "";
+}
+
+const HAND_BOXES = ["concepts", "intro", "exp"];
+
+function handFlags(studentId, code) {
+  const row = state.hand && state.hand[studentId] && state.hand[studentId][code];
+  return row || {};
+}
+
+function refreshHandNote() {
+  const ids = [];
+  const hand = state.hand || {};
+  Object.keys(hand).sort().forEach((studentId) => {
+    const codes = hand[studentId] || {};
+    Object.keys(codes).sort().forEach((code) => {
+      HAND_BOXES.forEach((box) => {
+        if (codes[code][box]) ids.push(`${studentId}:${code}:${box}`);
+      });
+    });
+  });
+  const later = state.later || {};
+  Object.keys(later).sort().forEach((studentId) => {
+    const codes = later[studentId] || {};
+    Object.keys(codes).sort().forEach((code) => {
+      if (codes[code]) ids.push(`${studentId}:${code}:${codes[code]}`);
+    });
+  });
+  state.handNote = ids.length ? `Manual progress boxes: ${ids.join(", ")}` : "";
+}
+
+function setHandBox(studentId, code, box, on) {
+  if (!state.hand) state.hand = {};
+  if (!state.hand[studentId]) state.hand[studentId] = {};
+  if (!state.hand[studentId][code]) state.hand[studentId][code] = {};
+  if (on) state.hand[studentId][code][box] = true;
+  else delete state.hand[studentId][code][box];
+  if (!Object.keys(state.hand[studentId][code]).length) delete state.hand[studentId][code];
+  if (!Object.keys(state.hand[studentId]).length) delete state.hand[studentId];
+  refreshHandNote();
 }
 
 function lessonModes(subject) {
@@ -969,6 +1010,8 @@ function dataBlob() {
     contributions: state.contributions,
     manual: state.manual,
     later: state.later || {},
+    hand: state.hand || {},
+    handNote: state.handNote || "",
     terms: state.terms || {},
     termPlan: state.termPlan || {},
     termQueue: state.termQueue || { chem: [], bio: [] },
@@ -985,6 +1028,8 @@ function stateFromData(data) {
     contributions: data.contributions || [],
     manual: data.manual || {},
     later: data.later || {},
+    hand: data.hand || {},
+    handNote: data.handNote || "",
     terms: data.terms || {},
     termPlan: data.termPlan || {},
     termQueue: data.termQueue || { chem: [], bio: [] },
@@ -2150,7 +2195,7 @@ function progressCell(lesson, student) {
   return `<a href="#lesson/${encodeURIComponent(lesson.id)}">${esc(stamp(lesson.date, lesson.start, lesson.end))}</a><br>${esc(text).replaceAll("\n", "<br>")}`;
 }
 
-function taughtMarks(student, subject) {
+function lessonMarks(student, subject) {
   const map = new Map();
   for (const lesson of lessonsTouching(student, subject)) {
     if (isAbs(lesson, student.id)) continue;
@@ -2168,6 +2213,19 @@ function taughtMarks(student, subject) {
       }
     }
   }
+  return map;
+}
+
+function taughtMarks(student, subject) {
+  const map = lessonMarks(student, subject);
+  const bag = (state.hand && state.hand[student.id]) || {};
+  Object.entries(bag).forEach(([code, flags]) => {
+    const topic = topicByCode(code);
+    if (topic && topic.subject !== subject) return;
+    const next = { concepts: !!flags.concepts, intro: !!flags.intro, exp: !!flags.exp };
+    if (!next.concepts && !next.intro && !next.exp) return;
+    map.set(code, mergeParts(map.get(code), next));
+  });
   return map;
 }
 
@@ -2335,7 +2393,7 @@ function progressSubject() {
 function dashLegend(subject) {
   const later = subject === "bio" ? "Sum ex, click to mark" : "Publisher ex, click to mark";
   const steps = subject === "bio" ? "Concepts, intro ex, exp ex" : "Concepts, exp ex";
-  return `<span><i class="pip syllabus off"></i> Not on the school list yet</span><span><i class="pip syllabus on"></i> On the school list</span><span><i class="pip step"></i> Not taught yet</span><span><i class="pip step on"></i> ${steps}</span><span><i class="pip later"></i> ${later}</span>`;
+  return `<span><i class="pip syllabus off"></i> Not on the school list yet</span><span><i class="pip syllabus on"></i> On the school list</span><span><i class="pip step"></i> Not taught yet. Click to mark</span><span><i class="pip step on"></i> ${steps}</span><span><i class="pip later"></i> ${later}</span>`;
 }
 
 function heatCodes(students, subject) {
@@ -2353,18 +2411,27 @@ function heatCell(student, subject, code) {
   const bag = compareTopics(student, subject);
   if (!bag.codes.includes(code)) return `<td></td>`;
   const parts = bag.taught.get(code) || { concepts: false, intro: false, exp: false };
+  const fromLesson = lessonMarks(student, subject).get(code) || { concepts: false, intro: false, exp: false };
+  const byHand = handFlags(student.id, code);
   const onSchool = bag.school.has(code);
   const kind = laterKind(subject);
   const laterOn = laterOf(student.id, code) === kind;
   const topic = topicByCode(code);
   const name = topic ? topic.name : code;
-  const steps = subject === "bio"
-    ? [parts.concepts, parts.intro, parts.exp]
-    : [parts.concepts, parts.exp];
+  const stepKeys = subject === "bio" ? ["concepts", "intro", "exp"] : ["concepts", "exp"];
   const stepNames = subject === "bio" ? ["Concepts", "Intro ex", "Exp ex"] : ["Concepts", "Exp ex"];
-  const detail = stepNames.map((label, index) => `${label} ${steps[index] ? "done" : "not yet"}`).join(", ");
+  const detail = stepNames.map((label, index) => {
+    const key = stepKeys[index];
+    const how = byHand[key] ? "marked by hand" : parts[key] ? "done" : "not yet";
+    return `${label} ${how}`;
+  }).join(", ");
   const title = `${name}. ${onSchool ? "On the school list." : "Not on the school list at this stage."} ${detail}. ${laterLabel(subject)} ${laterOn ? "marked" : "not marked"}.`;
-  const marks = steps.map((on) => `<i class="pip step ${on ? "on" : ""}"></i>`).join("");
+  const marks = stepKeys.map((key, index) => {
+    const on = !!parts[key];
+    const hand = !!byHand[key];
+    const locked = !!fromLesson[key];
+    return `<button type="button" class="pip step ${on ? "on" : ""} ${hand ? "hand" : ""}" data-action="toggle-hand" data-student="${esc(student.id)}" data-code="${esc(code)}" data-box="${key}" aria-label="${esc(stepNames[index])} ${esc(student.english)} ${esc(code)}" aria-pressed="${on ? "true" : "false"}" title="${esc(locked && !hand ? "Saved from a lesson" : "Click to mark by hand")}"></button>`;
+  }).join("");
   return `<td class="heat-cell" title="${esc(title)}"><span class="pips"><i class="pip syllabus ${onSchool ? "on" : "off"}"></i>${marks}<button type="button" class="pip later ${laterOn ? "on" : ""}" data-action="toggle-later" data-student="${esc(student.id)}" data-code="${esc(code)}" data-kind="${kind}" aria-label="${esc(laterLabel(subject))} ${esc(student.english)} ${esc(code)}" aria-pressed="${laterOn ? "true" : "false"}"></button></span></td>`;
 }
 
@@ -3395,6 +3462,25 @@ function onClick(e) {
     if (!state.later) state.later = {};
     if (!state.later[studentId]) state.later[studentId] = {};
     state.later[studentId][code] = state.later[studentId][code] === kind ? "" : kind;
+    refreshHandNote();
+    persist();
+    draw();
+    return;
+  }
+  if (action === "toggle-hand") {
+    const studentId = actionEl.dataset.student;
+    const code = actionEl.dataset.code;
+    const box = actionEl.dataset.box;
+    const student = studentById(studentId);
+    const topic = topicByCode(code);
+    if (!student || !topic || !HAND_BOXES.includes(box)) return;
+    const fromLesson = (lessonMarks(student, topic.subject).get(code) || {})[box];
+    const fromHand = !!handFlags(studentId, code)[box];
+    if (fromLesson && !fromHand) {
+      toast("That box is already saved from a lesson.");
+      return;
+    }
+    setHandBox(studentId, code, box, !fromHand);
     persist();
     draw();
     return;
@@ -3478,6 +3564,8 @@ function onClick(e) {
       contributions: state.contributions,
       manual: state.manual,
       later: state.later || {},
+      hand: state.hand || {},
+      handNote: state.handNote || "",
       terms: state.terms || {},
       termPlan: state.termPlan || {},
       termQueue: state.termQueue || { chem: [], bio: [] },
@@ -3498,6 +3586,8 @@ function onClick(e) {
         contributions: data.contributions || [],
         manual: data.manual || {},
         later: data.later || {},
+        hand: data.hand || {},
+        handNote: data.handNote || "",
         terms: data.terms || {},
         termPlan: data.termPlan || {},
         termQueue: data.termQueue || { chem: [], bio: [] },
@@ -3764,6 +3854,9 @@ async function boot() {
     }
   });
   window.addEventListener("hashchange", () => draw({ keepScroll: false }));
+  const previousNote = state.handNote || "";
+  refreshHandNote();
+  if ((state.handNote || "") !== previousNote) persist();
   draw({ keepScroll: false });
   if (restored) toast("Restored the copy saved on this computer.");
   window.__desk = { buildOutputs, sentence, state, displayName, roster, displayMark, commitLesson, persist };

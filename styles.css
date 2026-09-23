@@ -377,7 +377,8 @@ td input.bare, td textarea.bare { min-width: 120px; }
 .pip.need { background: var(--rose-soft); border-color: var(--rose); }
 .pip.met { background: var(--teal-soft); border-color: var(--accent); }
 .pip.later { border-radius: 50%; }
-button.pip { padding: 0; cursor: pointer; font: inherit; }
+button.pip { padding: 0; cursor: pointer; font: inherit; appearance: none; }
+.pip.step.hand { box-shadow: inset 0 0 0 2px white; }
 .day-block { margin: 0 0 8px; }
 .day-block h2 { display: flex; align-items: center; gap: 8px; margin: 20px 0 10px; font-size: 20px; letter-spacing: -0.02em; }
 .day-block h2 span { color: var(--muted); font-size: 12px; font-weight: 650; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; }

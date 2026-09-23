@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "savedAt": "2026-09-22T17:23:01.719Z",
+  "savedAt": "2026-09-23T10:48:44.347Z",
   "saturday": "2026-10-03",
   "slots": [],
   "students": [
@@ -3647,6 +3647,252 @@
         "jack"
       ],
       "confirmedAt": "2026-09-22T17:15:10.392Z"
+    },
+    "2026-10-10-chem": {
+      "id": "2026-10-10-chem",
+      "date": "2026-10-10",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "p1mve9us",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-10-10-bio": {
+      "id": "2026-10-10-bio",
+      "date": "2026-10-10",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "d6dobbxo",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-10-11-chem": {
+      "id": "2026-10-11-chem",
+      "date": "2026-10-11",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "3wj3j3ia",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-10-11-bio": {
+      "id": "2026-10-11-bio",
+      "date": "2026-10-11",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "nrals4u4",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-10-17-chem": {
+      "id": "2026-10-17-chem",
+      "date": "2026-10-17",
+      "day": "sat",
+      "subject": "chem",
+      "start": "11:00",
+      "end": "12:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": true,
+      "stale": true,
+      "streams": [
+        {
+          "id": "fjbmjdga",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        },
+        {
+          "id": "dnj4r9x0",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": [
+        "tulip",
+        "cheryl",
+        "nathan",
+        "anson",
+        "harley",
+        "donavon",
+        "jason",
+        "vulcan",
+        "angus"
+      ],
+      "confirmedAt": "2026-09-23T09:04:38.973Z"
+    },
+    "2026-10-17-bio": {
+      "id": "2026-10-17-bio",
+      "date": "2026-10-17",
+      "day": "sat",
+      "subject": "bio",
+      "start": "13:00",
+      "end": "14:00",
+      "room": "突破中心 6/F 6B",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "7tbrpmcf",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-10-18-chem": {
+      "id": "2026-10-18-chem",
+      "date": "2026-10-18",
+      "day": "sun",
+      "subject": "chem",
+      "start": "10:30",
+      "end": "11:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "xhj00wrr",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
+    },
+    "2026-10-18-bio": {
+      "id": "2026-10-18-bio",
+      "date": "2026-10-18",
+      "day": "sun",
+      "subject": "bio",
+      "start": "12:30",
+      "end": "13:30",
+      "room": "突破中心 6/F 6A",
+      "confirmed": false,
+      "stale": false,
+      "streams": [
+        {
+          "id": "507pcxch",
+          "teacher": "Jeffery",
+          "topicCodes": [],
+          "mode": "concepts + ex",
+          "extra": false,
+          "hw": false,
+          "hwCode": "",
+          "hwType": "",
+          "note": "",
+          "studentIds": []
+        }
+      ],
+      "attendance": {},
+      "rosterIds": null,
+      "confirmedAt": null
     }
   },
   "contributions": [
@@ -5457,6 +5703,8 @@
       "Earth1A": ""
     }
   },
+  "hand": {},
+  "handNote": "",
   "terms": {},
   "termPlan": {},
   "termQueue": {
